@@ -1,5 +1,5 @@
 {
-  "name": "@local/dsh-handoff-plugin",
+  "name": "@doiiarx/dsh-handoff-plugin",
   "description": "Restart handoff ('last will'): per-session durable notes plus automatic continue-reminder on Host restart",
   "version": "0.1.0",
   "publishConfig": {

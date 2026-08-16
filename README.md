@@ -1,4 +1,4 @@
-# @local/dsh-handoff-plugin
+# @doiiarx/dsh-handoff-plugin
 
 English | [中文](README.zh.md)
 
